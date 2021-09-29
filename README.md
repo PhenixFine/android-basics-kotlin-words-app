@@ -1,8 +1,10 @@
 # Words App
 
-This folder contains the source code for the Words app codelab.
+#### Google Developers [Unit 3](https://developer.android.com/courses/android-basics-kotlin/unit-3) - [Pathway 1](https://developer.android.com/courses/pathways/android-basics-kotlin-unit-3-pathway-1) - [Activity 3](https://developer.android.com/codelabs/basic-android-kotlin-training-activities-intents#0) - Activities and Intents: Words App Codelab  
+The codelab walks us through how to use explicit and implicit intents, add menu options, and suggests using companion objects for sharing constants. 
+The added code was provided within the codelab, and I only made slight modifications here and there.    
 
-
+Other than **App Preview** ( images are from the codelab ), the following was part of the original readme file.
 # Introduction
 Words app allows you to select a letter and use Intents to navigate to an Activity that
 presents a number of words starting with that letter. Each word can be looked up via a web search.
@@ -24,3 +26,16 @@ The app demonstrates the use of Intents in two ways:
 2. Download the sample.
 3. Import the sample into Android Studio.
 4. Build and run the sample.
+
+# App Preview
+Linear Layout View    
+![Linear Layout View](images/linear-layout.png)    
+    
+Grid Layout View    
+![Grid Layout View](images/grid-layout.png)    
+    
+Detail View when Letter A is clicked    
+![Detail View](images/detail-view-of-a-letter.png)    
+    
+Implicit Launch when the word ABOUT is clicked     
+![Implicit Launch example](images/implicit-launch-example.png)

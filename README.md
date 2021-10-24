@@ -1,8 +1,7 @@
 # Words App
 
-#### [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course) - [Unit 3](https://developer.android.com/courses/android-basics-kotlin/unit-3) - [Pathway 1](https://developer.android.com/courses/pathways/android-basics-kotlin-unit-3-pathway-1) - [Activity 3](https://developer.android.com/codelabs/basic-android-kotlin-training-activities-intents#0) - Activities and Intents: Words App Codelab  
-The codelab walks us through how to use explicit and implicit intents, add menu options, and suggests using companion objects for sharing constants. 
-The added code was provided within the codelab, and I only made slight modifications here and there.    
+#### [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course) - [Unit 3](https://developer.android.com/courses/android-basics-kotlin/unit-3) - [Pathway 2](https://developer.android.com/courses/pathways/android-basics-kotlin-unit-3-pathway-2) - [Activity 2](https://developer.android.com/codelabs/basic-android-kotlin-training-fragments-navigation-component#0) - Fragments and the Navigation Component  
+The codelab walks us through how to use fragments within an activity and how to set up and use Navigation Component to help simplify using fragments.  
 
 Other than **App Preview** ( images are from the codelab ), the following was part of the original readme file.
 # Introduction
